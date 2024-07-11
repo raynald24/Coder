@@ -65,6 +65,7 @@ img, iframe {
     animation: bounceIn 1s;
 }
 
+
 @keyframes bounceIn {
     0% {
         filter: opacity(0);
